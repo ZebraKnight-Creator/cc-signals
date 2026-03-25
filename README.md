@@ -5,6 +5,8 @@
 
 This Creative Commons (CC) repository contains a draft proposal for CC signals. CC signals is a framework for a simple pact between those stewarding data, and those reusing it for AI development. CC signals provide a set of shared ground rules for an AI ecosystem that is mutually beneficial. They are currently intended for use by those stewarding collections of content and other assets used as data for AI development.
 
+Looking for a quick way to share our human-first approach to AI? Open `website/index.html` in your browser for a client-facing landing page that presents the AI Manifesto for Human Flourishing alongside a concise overview of the Gemini capabilities described below.
+
 
 ### 🚀 Start here
 
